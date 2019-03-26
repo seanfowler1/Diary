@@ -59,61 +59,65 @@
         	
     		<div class="uk-grid-match uk-grid-collapse uk-flex-center uk-text-center" uk-grid>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
-					<a href="#" class="link-reset uk-padding">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
+					<a href="/addressbook" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-address-book"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Address Book</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-calendar-alt"></i>
-				    	<h5 class="uk-margin uk-margin-remove-bottom">Calendar</h5>
+				    	<h5 class="uk-margin uk-margin-remove-bottom">Events</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="/diary" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-book"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Diary</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-money-bill-alt"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Finances</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <!-- <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-redo-alt"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Habits</h5>
 					</a>
-			    </div>
+			    </div> -->
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-sticky-note"></i>
-				    	<h5 class="uk-margin uk-margin-remove-bottom">Notepad</h5>
+				    	<h5 class="uk-margin uk-margin-remove-bottom">Notes</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
+					
+			    </div>
+
+			    <!-- <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-bullseye"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Objectives</h5>
 					</a>
 			    </div>
 
-			    <div class="uk-width-1-4@m uk-width-1-2@s border-card">
+			    <div class="uk-width-1-3@m uk-width-1-2@s border-card">
 					<a href="#" class="link-reset uk-padding">
 				    	<i class="fas fa-2x fa-chart-pie"></i>
 				    	<h5 class="uk-margin uk-margin-remove-bottom">Statistics</h5>
 					</a>
-			    </div>
+			    </div> -->
 
 			</div>
 			

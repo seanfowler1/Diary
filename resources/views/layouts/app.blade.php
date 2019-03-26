@@ -79,14 +79,14 @@
                                         <ul class="uk-nav uk-nav-default uk-margin-large-top">
                                             <li class="uk-active"><a href="/dashboard">Dashboard</a></li>
                                             <li class="uk-parent">
-                                                <a href="/diary">Address Book</a>
+                                                <a href="/addressbook">Address Book</a>
                                                 <ul class="uk-nav-sub">
-                                                    <li><a href="/diary/create">New Entry</a></li>
-                                                    <li><a href="/diary">View Entry</a></li>
+                                                    <li><a href="/addressbook/create">New Entry</a></li>
+                                                    <li><a href="/addressbook">View Entry</a></li>
                                                 </ul>
                                             </li>
                                             <li class="uk-parent">
-                                                <a href="/diary">Calendar</a>
+                                                <a href="/diary">Events</a>
                                             </li>
                                             <li class="uk-parent">
                                                 <a href="/diary">Diary</a>
@@ -99,22 +99,22 @@
                                             <li class="uk-parent">
                                                 <a href="/diary">Finances</a>
                                             </li>
-                                            <li class="uk-parent">
+                                            <!-- <li class="uk-parent">
                                                 <a href="/diary"></span>Habits</a>
                                                 <ul class="uk-nav-sub">
                                                     <li><a href="/habits">New Habit</a></li>
                                                     <li><a href="/habits">View Habits</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                             <li class="uk-parent">
-                                                <a href="/diary">Notepad</a>
+                                                <a href="/diary">Notes</a>
                                             </li>
-                                            <li class="uk-parent">
+                                            <!-- <li class="uk-parent">
                                                 <a href="/diary">Objectives</a>
                                             </li>
                                             <li class="uk-parent">
                                                 <a href="/diary">Statistics</a>
-                                            </li>
+                                            </li> -->
 
 
                                             <li class="uk-nav-divider"></li>

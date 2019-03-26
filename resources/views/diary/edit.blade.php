@@ -6,13 +6,22 @@
 
 <div class="uk-section">
     <div class="uk-container uk-container-expand">
-        <div class="uk-margin uk-width-1-2@m uk-align-center uk-card uk-card-default uk-padding">
+
+    	<div class="uk-margin uk-width-1-2@m uk-width-3-4@s uk-align-center">
+    		<ul class="uk-breadcrumb">
+                <li><a href="/dashboard">Dashboard</a></li>
+                <li><a href="/diary">Diary</a></li>
+                <li><span>Edit</span></li>
+            </ul>
+        </div>
+
+        <div class="uk-margin uk-width-1-2@m uk-width-3-4@s uk-align-center uk-card uk-card-default uk-padding">
 
            <form action="/diary/{{$diaryEntry->id}}/update" method="POST">
            		@csrf
 				<fieldset class="uk-fieldset">
 
-					<legend class="uk-legend">New Diary Entry</legend>
+					<legend class="uk-legend">Update Diary Entry</legend>
 
 					<div class="uk-margin">
 						<label class="label-spacing" for="">Title</label>
